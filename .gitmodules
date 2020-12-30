@@ -1,0 +1,6 @@
+[submodule "api"]
+  path = api
+  url = git@github.com:masakaz737/nuxt-rails-api.git
+[submodule "front"]
+  path = front
+  url = git@github.com:masakaz737/nuxt-rails-front.git
